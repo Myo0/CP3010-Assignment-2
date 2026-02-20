@@ -1,0 +1,24 @@
+{
+  "name": "cp3010-assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Myo0/CP3010-Assignment-2#readme",
+  "bugs": {
+    "url": "https://github.com/Myo0/CP3010-Assignment-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myo0/CP3010-Assignment-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^5.2.1"
+  }
+}
